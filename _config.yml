@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: 'Analytics for Google Payments'
+description: 'Business metrics for Google merchants.'
+google_analytics: 'UA-93976001-2'
+install_link: 'https://chrome.google.com/webstore/detail/analytics-for-google-paym/ghmoohfklnhjijpmpjlapalkhhbnnlam'
