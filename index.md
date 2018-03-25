@@ -1,7 +1,7 @@
 ---
 ---
 
-Analytics is a Chrome Extension that makes sense of your Google merchant data.
+Analytics is a Chrome Extension that makes sense of your Google Payments Center data.
 It can answer questions like:
 
 * what's my monthly run rate over time?
