@@ -18,6 +18,11 @@ This may take up to a minute the first time, especially for accounts with a long
 Once it's lit up, click it.
 * You'll now see your data in a new tab.
 
+## Privacy
+
+Your data will only be used for presenting your stats and will not leave your computer.
+See [the Privacy Policy](/privacy.html) for the details.
+
 ## Known Issues
 
 * Read-only accounts are not supported.
