@@ -61,7 +61,7 @@ The extension logs all sorts of useful debugging information while running. To c
 * click the "inspect views: background page" link under the extension listing. This will open a new window.
 * in the new window, click the "console" tab
 
-If there were errors or warnings, the top right-hand corner will have markings like  and  respectively.
+If there were errors or warnings, the top right-hand corner will have markings like ❌ and ⚠️ respectively.
 If you see these, you can use the funnel button in the top-left corner and click "Errors" or "Warnings" to filter them out from everything else.
 
 If you'd like to send me your logs, right click anywhere in the console and click "save as", then attach the file to an email.
