@@ -17,6 +17,6 @@ and "the extension" refers to Analytics for Google Payments.
 **Here is what we may do with your data:**
 
 * we may store your Google Payments data on computers that you install the extension to
-* we may allow [Google Analytics](https://www.google.com/analytics) to store anonymous information about your interaction with the extension as governed by their [privacy policy](https://support.google.com/analytics/answer/6004245?hl=en) to better understand aggregate user behavior
+* we may allow [Google Analytics](https://www.google.com/analytics) to store anonymous information about your interaction with the extension as governed by their [privacy policy](https://support.google.com/analytics/answer/6004245?hl=en) to better understand aggregate user behavior. You may choose to opt out of this reporting by visiting chrome-extension://ghmoohfklnhjijpmpjlapalkhhbnnlam/html/privacy.html after installation.
 * we may allow [Sentry](https://sentry.io) to store aggregated information on errors you encounter while using the extension
 * we may allow [MailChimp](https://mailchimp.com) to store your email (if provided during setup) for the purpose of sending you emails regarding the extension
