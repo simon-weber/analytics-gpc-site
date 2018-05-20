@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_published March 25th, 2018_
+_published May 20th, 2018_
 
 This page explains what data we collect from you and what we use it for.
 Past versions of this page are available [on GitHub](https://github.com/simon-weber/analytics-gpc-site/commits/master/privacy.md).
